@@ -1,0 +1,107 @@
+{
+  "Header": {
+    "languages": {
+      "en": "English",
+      "ru": "Russian",
+      "uz": "Uzbek"
+    },
+    "SignIn": "Sign In"
+  },
+  "Hero": {
+    "title": "Delicious food is waiting for you!",
+    "menuButton": "View menu",
+    "navbar": {
+      "menu": "Menu",
+      "news": "News",
+      "booking": "Booking",
+      "about": "About us",
+      "contact": "Contacts"
+    }
+  },
+  "PopularDishes": {
+    "title": "Popular dishes",
+    "menuButton": "View menu",
+    "dish": {
+      "title": "Chicken soup",
+      "description": "Spicy with garlic",
+      "price": "$10.00"
+    }
+  },
+  "booking": {
+    "title": "Reserve a table",
+    "phone": "Your phone number",
+    "people": "For how many people?",
+    "date": "Choose a date",
+    "time": "Choose a time",
+    "place": "Choose a place",
+    "map": "Select place on the map",
+    "button": "Reserve"
+  },
+  "WhyUs": {
+    "title": "Why choose us?",
+    "items": {
+      "quality": {
+        "title": "Quality products",
+        "desc": "Tickets for museums and attractions"
+      },
+      "delivery": {
+        "title": "Fast delivery",
+        "desc": "Tickets for museums and attractions"
+      },
+      "recipes": {
+        "title": "Delicious recipes",
+        "desc": "Tickets for museums and attractions"
+      },
+      "atmosphere": {
+        "title": "Cozy atmosphere",
+        "desc": "Tickets for museums and attractions"
+      },
+      "chefs": {
+        "title": "Experienced chefs",
+        "desc": "Tickets for museums and attractions"
+      },
+      "service": {
+        "title": "Great service",
+        "desc": "Tickets for museums and attractions"
+      }
+    }
+  },
+  "News": {
+    "title": "News / Gallery",
+    "button": "View all",
+    "items": {
+      "post1": {
+        "desc": "Use flexible structures to provide a reliable overview for high level insights.",
+        "author": "Sergey"
+      },
+      "post2": {
+        "desc": "Use flexible structures to provide a reliable overview for high level insights.",
+        "author": "Sergey"
+      },
+      "post3": {
+        "desc": "Use flexible structures to provide a reliable overview for high level insights.",
+        "author": "Sergey"
+      }
+    }
+  },
+  "Footer": {
+    "services": {
+      "title": "Our Services",
+      "price": "Pricing",
+      "tracking": "Tracking",
+      "report": "Report a bug",
+      "terms": "Terms of service"
+    },
+    "company": {
+      "title": "Our Company",
+      "reports": "Reports",
+      "contact": "Contact us",
+      "management": "Management"
+    },
+    "address": {
+      "title": "Address",
+      "location": "Uzbekistan, Tashkent",
+      "street": "Street 24"
+    }
+  }
+}

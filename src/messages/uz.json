@@ -1,0 +1,107 @@
+{
+  "Header": {
+    "languages": {
+      "en": "Inglizcha",
+      "ru": "Ruscha",
+      "uz": "O'zbekcha"
+    },
+    "SignIn": "Kirish"
+  },
+  "Hero": {
+    "title": "Mazali taom sizni kutmoqda!",
+    "menuButton": "Menyuni ko'rish",
+    "navbar": {
+      "menu": "Menyu",
+      "news": "Yangiliklar",
+      "booking": "Bron qilish",
+      "about": "Biz haqimizda",
+      "contact": "Aloqa"
+    }
+  },
+  "PopularDishes": {
+    "title": "Mashhur taomlar",
+    "menuButton": "Menyuni ko'rish",
+    "dish": {
+      "title": "Tovuqli sho'rva",
+      "description": "Sarimsoqli achchiq",
+      "price": "$10.00"
+    }
+  },
+  "booking": {
+    "title": "Stol bron qiling",
+    "phone": "Telefon raqamingiz",
+    "people": "Necha kishi uchun?",
+    "date": "Sanani tanlang",
+    "time": "Vaqtni tanlang",
+    "place": "Joyni tanlang",
+    "map": "Xaritadan joy tanlang",
+    "button": "Bron qilish"
+  },
+  "WhyUs": {
+    "title": "Nega aynan biz?",
+    "items": {
+      "quality": {
+        "title": "Sifatli mahsulotlar",
+        "desc": "Muzeylar va diqqatga sazovor joylarga chipta"
+      },
+      "delivery": {
+        "title": "Tezkor yetkazib berish",
+        "desc": "Muzeylar va diqqatga sazovor joylarga chipta"
+      },
+      "recipes": {
+        "title": "Mazali retseptlar",
+        "desc": "Muzeylar va diqqatga sazovor joylarga chipta"
+      },
+      "atmosphere": {
+        "title": "Qulay muhit",
+        "desc": "Muzeylar va diqqatga sazovor joylarga chipta"
+      },
+      "chefs": {
+        "title": "Tajribali oshpazlar",
+        "desc": "Muzeylar va diqqatga sazovor joylarga chipta"
+      },
+      "service": {
+        "title": "A'lo servis",
+        "desc": "Muzeylar va diqqatga sazovor joylarga chipta"
+      }
+    }
+  },
+  "News": {
+    "title": "Yangiliklar / Galereya",
+    "button": "Barchasini ko'rish",
+    "items": {
+      "post1": {
+        "desc": "Yuqori darajadagi tahlil uchun ishonchli ko'rinish beradigan moslashuvchan tuzilmalardan foydalaning.",
+        "author": "Sergey"
+      },
+      "post2": {
+        "desc": "Yuqori darajadagi tahlil uchun ishonchli ko'rinish beradigan moslashuvchan tuzilmalardan foydalaning.",
+        "author": "Sergey"
+      },
+      "post3": {
+        "desc": "Yuqori darajadagi tahlil uchun ishonchli ko'rinish beradigan moslashuvchan tuzilmalardan foydalaning.",
+        "author": "Sergey"
+      }
+    }
+  },
+  "Footer": {
+    "services": {
+      "title": "Bizning xizmatlar",
+      "price": "Narxlar",
+      "tracking": "Kuzatish",
+      "report": "Xato haqida xabar",
+      "terms": "Xizmat shartlari"
+    },
+    "company": {
+      "title": "Bizning kompaniya",
+      "reports": "Hisobotlar",
+      "contact": "Biz bilan bog'laning",
+      "management": "Boshqaruv"
+    },
+    "address": {
+      "title": "Manzil",
+      "location": "O'zbekiston, Toshkent",
+      "street": "24-ko'cha"
+    }
+  }
+}

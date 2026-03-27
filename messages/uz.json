@@ -1,0 +1,173 @@
+{
+  "Header": {
+    "languages": {
+      "en": "Inglizcha",
+      "ru": "Ruscha",
+      "uz": "O'zbekcha"
+    },
+    "SignIn": "Kirish"
+  },
+  "Hero": {
+    "title": "Mazali taom sizni kutmoqda!",
+    "menuButton": "Menyuni ko'rish",
+    "navbar": {
+      "menu": "Menyu",
+      "news": "Yangiliklar",
+      "booking": "Bron qilish",
+      "about": "Biz haqimizda",
+      "contact": "Aloqa"
+    }
+  },
+  "PopularDishes": {
+    "title": "Mashhur taomlar",
+    "menuButton": "Menyuni ko'rish",
+    "dish": {
+      "title": "Tovuqli sho'rva",
+      "description": "Sarimsoqli achchiq",
+      "price": "$10.00"
+    }
+  },
+  "booking": {
+    "title": "Stol bron qiling",
+    "phone": "Telefon raqamingiz",
+    "people": "Necha kishi uchun?",
+    "date": "Sanani tanlang",
+    "time": "Vaqtni tanlang",
+    "place": "Joyni tanlang",
+    "map": "Xaritadan joy tanlang",
+    "button": "Bron qilish"
+  },
+  "WhyUs": {
+    "title": "Nega aynan biz?",
+    "items": {
+      "quality": {
+        "title": "Sifatli mahsulotlar",
+        "desc": "Muzeylar va diqqatga sazovor joylarga chipta"
+      },
+      "delivery": {
+        "title": "Tezkor yetkazib berish",
+        "desc": "Muzeylar va diqqatga sazovor joylarga chipta"
+      },
+      "recipes": {
+        "title": "Mazali retseptlar",
+        "desc": "Muzeylar va diqqatga sazovor joylarga chipta"
+      },
+      "atmosphere": {
+        "title": "Qulay muhit",
+        "desc": "Muzeylar va diqqatga sazovor joylarga chipta"
+      },
+      "chefs": {
+        "title": "Tajribali oshpazlar",
+        "desc": "Muzeylar va diqqatga sazovor joylarga chipta"
+      },
+      "service": {
+        "title": "A'lo servis",
+        "desc": "Muzeylar va diqqatga sazovor joylarga chipta"
+      }
+    }
+  },
+  "News": {
+    "title": "Yangiliklar / Galereya",
+    "page": "Asosiy",
+    "newsTitle": "Yangiliklar",
+    "galleryTitle": "Galereya",
+    "button": "Barchasini ko'rish",
+    "items": {
+      "post1": {
+        "desc": "Yuqori darajadagi tahlil uchun ishonchli ko'rinish beradigan moslashuvchan tuzilmalardan foydalaning.",
+        "author": "Sergey"
+      },
+      "post2": {
+        "desc": "Yuqori darajadagi tahlil uchun ishonchli ko'rinish beradigan moslashuvchan tuzilmalardan foydalaning.",
+        "author": "Sergey"
+      },
+      "post3": {
+        "desc": "Yuqori darajadagi tahlil uchun ishonchli ko'rinish beradigan moslashuvchan tuzilmalardan foydalaning.",
+        "author": "Sergey"
+      }
+    }
+  },
+  "Footer": {
+    "services": {
+      "title": "Bizning xizmatlar",
+      "price": "Narxlar",
+      "tracking": "Kuzatish",
+      "report": "Xato haqida xabar",
+      "terms": "Xizmat shartlari"
+    },
+    "company": {
+      "title": "Bizning kompaniya",
+      "reports": "Hisobotlar",
+      "contact": "Biz bilan bog'laning",
+      "management": "Boshqaruv"
+    },
+    "address": {
+      "title": "Manzil",
+      "location": "O'zbekiston, Toshkent",
+      "street": "24-ko'cha"
+    }
+  },
+  "Menu":{
+    "title": "Menyu",
+    "page": "Asosiy",
+    "newsTitle": "Yangiliklar / Galereya",
+    "newsButton": "Barchasini ko'rish"
+  },
+  "Bookings":{
+    "title": "Bron qilish",
+    "page":"Asosiy",
+    "bookingTitle":"Stol band qilmoqchimisiz?",
+    "bookingButton": "Hozir buyurtma bering",
+    "bookingNewsTitle":"Yangiliklar / Galereya",
+    "bookingNewsButton": "Barchasini ko'rish",
+    "subtitle": "Ochilish vaqti",
+    "monday": "Dushanba",
+    "tuesday": "Seshanba",
+    "wednesday": "Chorshanba",
+    "thursday": "Payshanba",
+    "friday": "Juma",
+    "saturday": "Shanba",
+    "sunday": "Yakshanba",
+    "bookingTimeOne": "10:00 - 22:00",
+    "bookingTimeTwo": "10:00 - 23:00",
+    "contact": "Biz bilan bog'laning",
+    "write": "Yozing",
+    "call": "Biz bilan bog'laning",
+    "visit": "Bizni vizit qiling",
+    "address": "O'zbekiston, Toshkent, 24-ko'cha"
+  },
+  "about": {
+    "title": "Biz haqimizda",
+    "page": "Asosiy",
+    "aboutTitle": "Biz haqimizda",
+    "aboutButton": "Menuni ko'rish",
+    "description":"1995-yildan beri bizning restoranimizning vazifasi har bir jamoa a'zosini, mehmonni va biz xizmat ko'rsatadigan jamoani oziqlantirish va ilhomlantirishdan iborat. Shuncha yillar o'tgach, ushbu asosiy qadriyatlar biz qilayotgan barcha ishlarning markazida qolmoqda. Menyudan tortib xizmatimizgacha, biznes yuritish uslubimizgacha, bizning yangi, kutilmagan va insoniy nuqtai nazarimiz bizni boshqalardan ajratib turadi. Biz buni Favqulodda Mehribonlik deb ataymiz. Va bu biz qilayotgan hamma narsada aks etadi.\n\n 26 shtatda 450 dan ortiq restoran va 8000 dan ortiq jamoa a'zolari bilan biz Forbes tomonidan ketma-ket ikki yil davomida Amerikaning xilma-xillik bo'yicha eng yaxshi ish beruvchilaridan biri deb topildik. Denver Business Journal bizni ishlash uchun eng yaxshi joylardan biri sifatida tan oldi. Biz bu muvaffaqiyatlar bizning noyob va g'amxo'r madaniyatimizga asoslangan deb hisoblaymiz, bu esa bizning eshigimizdan kirgan har bir kishini o'zini xush kelibsiz va qadrli his qilishiga olib keladi.",
+    "ourFoodTitle": "Bizning taomimiz",
+    "ourFoodDesc": "Bizning ishtiyoqimiz ajoyib narxlarda ajoyib ovqatlanish tajribasini yaratishdir. An'anaviy va zamonaviy taomlardan tortib, premium to'ldirilgan tortelloni kabi o'zimizning oshpazlik buyumlarimizgacha, bizning yangi tayyorlangan retseptlarimiz individual, ijodiy va butun dunyo oshxonalarining yorqin ta'mlari bilan to'yingan.\n\n Penne Rosadan tortib, yapon makaronlari, asal salati va dunyoga mashhur Viskonsin makaron va pishloqlarigacha, biz faqat eng yaxshi, eng foydali masalliqlardan foydalanamiz. Har bir taom yangi tayyorlanadi va buyurtma asosida tayyorlanadi. Bizning keng menyumiz jonli, jonli va qoniqarli ta'mlar bilan to'ldirilgan.",
+    "ourPathTitle":"Bizning yo'limiz",
+    "ourPathDesc":"Biz boshidanoq yangi oziq-ovqat, yangi masalliqlar va mehmonlarimiz, jamoa a'zolarimiz va jamoalarimizga g'amxo'rlik qilishning yangicha yondashuvini taklif qilishga sodiqmiz. Biz chin dildan ishonamizki, hech narsa odamlarni birlashtirmaydi yoki dunyoni bir piyola makarondan yaxshiroq joyga aylantirmaydi.\n\n Biz o'sishda davom etar ekanmiz, butun kompaniyamiz bo'ylab yorqin kelajakni qo'llab-quvvatlash uchun asosiy tashabbuslarni amalga oshirmoqdamiz. Bizning ta'sir hisobotimizda ushbu sohalarning ba'zilari, masalan, yangi va hayajonli yangi ta'mlarga boy menyu yaratish; odamlar uchun sanoatda yetakchi imtiyozlarni faollashtirish; va biz uy deb ataydigan jamoalarimiz va sayyoramizga yaxshiroq g'amxo'rlik qilishning ba'zi usullari o'rganiladi.",
+    "ourTeamTitle":"Bizning jamoamiz",
+    "ourHeadChef": "bosh oshpaz",
+    "ourAssistentChef": "yordamchi oshpaz",
+    "ourBurgerKing": "burger king",
+    "ourWaitress": "ofitsiant"
+  },
+  "contact": {
+    "title": "Aloqa",
+    "page": "Asosiy",
+    "contactTitle": "Biz bilan bog'laning",
+    "contactButton": "Menyuni ko'rish",
+    "write": "Yozing",
+    "call": "Biz bilan bog'laning",
+    "visit": "Bizga tashrif buyuring",
+    "address": "O'zbekiston, Toshkent, 24-ko'cha",
+    "name": "Ismingizni kiriting",
+    "email": "Emailingizni kiriting",
+    "message": "Xabaringizni kiriting",
+    "send": "Yuborish",
+    "phone": "Telefon raqamingizni kiriting"
+  },
+  "cart":{
+    "title": "Savat"
+  }
+}

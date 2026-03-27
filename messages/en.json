@@ -1,0 +1,180 @@
+{
+  "Header": {
+    "languages": {
+      "en": "English",
+      "ru": "Russian",
+      "uz": "Uzbek"
+    },
+    "SignIn": "Sign In"
+  },
+  "Hero": {
+    "title": "Delicious food is waiting for you!",
+    "menuButton": "View menu",
+    "navbar": {
+      "menu": "Menu",
+      "news": "News",
+      "booking": "Booking",
+      "about": "About us",
+      "contact": "Contacts"
+    }
+  },
+  "PopularDishes": {
+    "title": "Popular dishes",
+    "menuButton": "View menu",
+    "dish": {
+      "title": "Chicken soup",
+      "description": "Spicy with garlic",
+      "price": "$10.00"
+    }
+  },
+  "booking": {
+    "title": "Reserve a table",
+    "phone": "Your phone number",
+    "people": "For how many people?",
+    "date": "Choose a date",
+    "time": "Choose a time",
+    "place": "Choose a place",
+    "map": "Select place on the map",
+    "button": "Reserve"
+  },
+  "WhyUs": {
+    "title": "Why choose us?",
+    "items": {
+      "quality": {
+        "title": "Quality products",
+        "desc": "Tickets for museums and attractions"
+      },
+      "delivery": {
+        "title": "Fast delivery",
+        "desc": "Tickets for museums and attractions"
+      },
+      "recipes": {
+        "title": "Delicious recipes",
+        "desc": "Tickets for museums and attractions"
+      },
+      "atmosphere": {
+        "title": "Cozy atmosphere",
+        "desc": "Tickets for museums and attractions"
+      },
+      "chefs": {
+        "title": "Experienced chefs",
+        "desc": "Tickets for museums and attractions"
+      },
+      "service": {
+        "title": "Great service",
+        "desc": "Tickets for museums and attractions"
+      }
+    }
+  },
+  "News": {
+    "title": "News / Gallery",
+    "page":"Main",
+    "newsTitle": "News",
+    "galleryTitle": "Gallery",
+    "button": "View all",
+    "items": {
+      "post1": {
+        "desc": "Use flexible structures to provide a reliable overview for high level insights.",
+        "author": "Sergey"
+      },
+      "post2": {
+        "desc": "Use flexible structures to provide a reliable overview for high level insights.",
+        "author": "Sergey"
+      },
+      "post3": {
+        "desc": "Use flexible structures to provide a reliable overview for high level insights.",
+        "author": "Sergey"
+      }
+    }
+  },
+  "Footer": {
+    "services": {
+      "title": "Our Services",
+      "price": "Pricing",
+      "tracking": "Tracking",
+      "report": "Report a bug",
+      "terms": "Terms of service"
+    },
+    "company": {
+      "title": "Our Company",
+      "reports": "Reports",
+      "contact": "Contact us",
+      "management": "Management"
+    },
+    "address": {
+      "title": "Address",
+      "location": "Uzbekistan, Tashkent",
+      "street": "Street 24"
+    }
+  },
+  "Menu":{
+    "title": "Menu",
+    "page":"Main",
+    "newsTitle":"News / Gallery",
+    "newsButton": "View all"
+  },
+  "Bookings":{
+    "title": "Booking",
+    "page":"Main",
+    "bookingTitle":"Would you like to reserve a table?",
+    "bookingButton": "book",
+    "bookingNewsTitle":"News / Gallery",
+    "bookingNewsButton": "View all",
+    "subtitle": "Opening hours",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "bookingTimeOne": "10:00 - 22:00",
+    "bookingTimeTwo": "10:00 - 23:00",
+    "contact":"Contact us",
+    "write": "Write to us",
+    "call": "Call us",
+    "visit": "Visit us",
+    "address": "Uzbekistan, Tashkent, Street 24"
+
+  }
+  ,
+  "about": {
+    "title": "About us",
+    "page": "Main",
+    "aboutTitle": "About us",
+    "aboutButton": "View menu",
+    "description":"Since 1995, our restaurant mission has been to nourish and inspire every team member, guest, and the community we serve. All these years later, these core values ​​remain at the heart of everything we do. From our menu to our service to our way of doing business, our fresh, unexpected, and human perspective sets us apart. We call it Extraordinary Kindness. And it's in everything we do.\n\n With more than 450 restaurants in 26 states and over 8,000 team members, we've been named one of America's Best Employers for Diversity by Forbes two years in a row. Denver Business Journal has recognized us as one of the Best Places to Work. We believe these successes are rooted in our unique and caring culture, which makes everyone who walks through our doors feel welcome and valued.",
+    "ourFoodTitle": "Our Food",
+    "ourFoodDesc":"Our passion is creating exceptional dining experiences at a great price. From traditional and contemporary dishes to our own culinary creations like premium stuffed tortelloni, our freshly prepared recipes are individual, creative, and infused with the vibrant flavors of cuisines around the world. \n\n From Penne Rosa to Japanese noodles, Honey Salad, and our world-famous Wisconsin Macaroni and Cheese, we use only the finest, healthiest ingredients. Every dish is prepared fresh and made to order. Our extensive menu is filled with vibrant, vibrant, and satisfying flavors.",
+    "ourPathTitle":"Our Path",
+    "ourPathDesc":"From the very beginning, we've been committed to offering fresh food, fresh ingredients, and a new approach to caring for our guests, team members, and communities. We truly believe that nothing brings people together or makes the world a better place than a bowl of noodles.\n\n As we continue to grow, we're implementing key initiatives across our entire company to support a brighter future. Our impact report explores some of these areas, such as creating a menu filled with fresh and exciting new flavors; activating industry-leading benefits for people; and some ways to better care for our communities—and the planet—we call home.",
+    "ourTeamTitle":"Our Team",
+    "ourHeadChef": "head chef",
+    "ourAssistentChef": "assistant chef",
+    "ourBurgerKing":"burger king",
+    "ourWaitress": "waitress"
+  },
+  "contact": {
+    "title": "Contacts",
+    "page": "Main",
+    "contactTitle": "Contact us",
+    "contactButton": "View menu",
+    "write":"Write to us",
+    "call":"Call us",
+    "visit":"Visit us",
+    "address": "Uzbekistan, Tashkent, 24th street",
+    "name":"Your Name",
+    "email":"Your E-Mail",
+    "message":"Your Message",
+    "send":"Send",
+    "phone":"Your Phone Number"
+    
+  }
+  ,
+  "cart":{
+    "title":"Cart page"
+  },
+  "singleProduct":{
+    "title":""
+  }
+}
