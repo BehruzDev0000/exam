@@ -12,9 +12,13 @@ export interface NewsCardType {
 }
 
 const NewsModule=async () => {
-  const data=await getAll("news")
-  const newsList=data?.data.splice(0,3)
-  return <NewsContent filteredData={newsList} />
+  try {
+    const { data } = await getAll("news")
+    return <NewsContent filteredData={data.slice(0, 3)} />
+  } catch (error) {
+    console.error("Could not load news", error)
+    return <p role="status" className="py-6 text-center">Yangiliklar vaqtincha yuklanmadi.</p>
+  }
 }
 
 export default NewsModule
